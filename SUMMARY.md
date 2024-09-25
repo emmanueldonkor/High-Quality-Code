@@ -6,16 +6,8 @@
 
 * [What quality code means](introduction/what-quality-code-means.md)
 * [Why quality code matters in production](introduction/why-quality-code-matters-in-production.md)
+* [Characteristics of quality code](introduction/xtics-of-quality-code.md)
 * [Common pitfalls of quality code](introduction/common-pitfalls-of-clean-code.md)
-
-## Core Characteristics of High Quality Code
-
-* [Readability & Maintainability](characteristics-of-quality-code/readability-mantainability.md)
-* [Consistency in Code Style](characteristics-of-quality-code/consistency-in-coding-style.md)
-* [Cohesion & Strong Functional Responsibility](characteristics-of-quality-code/cohesion-and-functional-responsibility.md)
-* [Loose Coupling Between Modules](characteristics-of-quality-code/loose-coupling-between-modules.md)
-* [Well tested](characteristics-of-quality-code/well-tested.md)
-* [Practice & Exercise](characteristics-of-quality-code/practices-and-exercises.md)
 
 ## Naming Conventions and Best Practices
 

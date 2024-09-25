@@ -1,7 +1,6 @@
 ## Common Pitfalls in Writing Quality Code
-
 Writing quality code is essential, but many developers encounter common pitfalls that can lead to poor coding practices. Here are some of the most prevalent issues to watch out for:
-
+Always remember that **_Writing quality is a way of thinking not a structure or rules to follow_**
 ### 1. Ignoring Code Readability
 
 **Pitfall**: Developers often prioritize functionality over readability, resulting in complex and hard-to-understand code. In an attempt to showcase their prowess, some developers may write overly complex one-liner methods that sacrifice readability and maintainability. see following example:
@@ -64,5 +63,4 @@ public int? FindFirstEvenNumber(List<int> numbers) => numbers.Where(n => n % 2 =
 **Solution**: Regularly schedule time for refactoring as part of the development process. Treat refactoring as an integral part of maintaining a healthy codebase.
 
 ### Conclusion
-
 Being aware of these common pitfalls is the first step toward writing quality code. By actively working to avoid these issues, developers can create more reliable, maintainable, and efficient software, ultimately leading to better user experiences and lower long-term costs.
