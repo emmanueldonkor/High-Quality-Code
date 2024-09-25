@@ -38,9 +38,9 @@ grpbxtn    // Cryptic; hard to understand without context.
 ```
 
 #### Good Example
-``plaintext
+```plaintext
 groupBoxButton // more easier to understand
-``
+```
 
 ### Name Identifiers within Business Domain
 
