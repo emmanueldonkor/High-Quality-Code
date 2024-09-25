@@ -5,7 +5,7 @@
 ## Introduction To High Quality Code
 
 * [What quality code means](introduction/what-quality-code-means.md)
-* [Why quality code matters in production](introduction/why-quality-code-matters-in-production)
+* [Why quality code matters in production](introduction/why-quality-code-matters-in-production.md)
 * [Common pitfalls of quality code](introduction/common-pitfalls-of-clean-code.md)
 
 ## Core Characteristics of High Quality Code
