@@ -14,7 +14,7 @@
 * [Identifier Naming Best Practices](/naming-conventions/identifier-naming.md)
 * [Class and Interface Naming](/naming-conventions/class-and-interface-naming.md)
 * [Method and Property Naming](/naming-conventions/method-and-property-naming.md)
-* [Variable and Boolean Naming](/naming-conventions/variable-and-boolean-naming.md)
+* [Variable and Boolean Naming](/naming-conventions/variable-enums-and-boolean-naming.md)
 * [Naming Patterns for Self-Documenting Code](/naming-conventions/naming-for-self-documenting.md)
 * [Practice & Exercise](/naming-conventions/practices-and-exercises.md)
   
