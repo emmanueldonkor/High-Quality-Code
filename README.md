@@ -19,7 +19,7 @@ layout:
 
 # 🚀 Welcome To High Quality Programming
 
-**_"The best way to document your code is to write high-quality code._**
+**_"The best way to document your code is to write high-quality code."_**
 
 Imagine this: you’re working on a project that could change the game, but as the codebase grows, you find yourself drowning in complexity. Bugs appear out of nowhere, features take forever to implement, and the team is frustrated. What went wrong?
 

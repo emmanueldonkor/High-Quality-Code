@@ -27,30 +27,31 @@
 * [Dependency Injection & Decoupling](/oop-practices/dependency-injection-and-decoupling.md)
 * [Practice & Exercises](/oop-practices/pratice-and-exercises.md)
   
-## Clean Code Practices
+<!-- ## Clean Code Practices -->
 
-* [SOLID Principles](basics/editor.md)
-* [Dry & Kiss Principles](basics/markdown.md)
-* [Code smells and how to fix them](basics/images-and-media.md)
-* [Praactice & Exercises](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+<!-- * [SOLID Principles](basics/editor.md) -->
+<!-- * [Dry & Kiss Principles](basics/markdown.md) -->
+<!-- * [Code smells and how to fix them](basics/images-and-media.md) -->
+<!-- * [Praactice & Exercises](basics/interactive-blocks.md) -->
+<!-- * [OpenAPI](basics/openapi.md) -->
+<!-- * [Integrations](basics/integrations.md) -->
   
-## Testing and Code Reliability
+<!-- ## Testing and Code Reliability -->
 
-* [Writing Testable Code](basics/editor.md)
-* [Writing Maintainable Unit Tests](basics/markdown.md)
-* [Ensuring Code Doesn't Break](basics/images-and-media.md)
-* [Practice & Exercises](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+<!-- * [Writing Testable Code](basics/editor.md) -->
+<!-- * [Writing Maintainable Unit Tests](basics/markdown.md) -->
+<!-- * [Ensuring Code Doesn't Break](basics/images-and-media.md) -->
+<!-- * [Practice & Exercises](basics/interactive-blocks.md) -->
+<!-- * [OpenAPI](basics/openapi.md) -->
+<!-- * [Integrations](basics/integrations.md) -->
   
-## Advanced Practices in High-Quality Code
+<!-- ## Advanced Practices in High-Quality Code -->
 
-* [Writing Testable Code](basics/editor.md)
-* [Writing Maintainable Unit Tests](basics/markdown.md)
-* [Ensuring Code Doesn't Break](basics/images-and-media.md)
-* [Practice & Exercises](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+<!-- * [Writing Testable Code](basics/editor.md) -->
+<!-- * [Writing Maintainable Unit Tests](basics/markdown.md) -->
+<!-- * [Ensuring Code Doesn't Break](basics/images-and-media.md) -->
+<!-- * [Practice & Exercises](basics/interactive-blocks.md) -->
+<!-- * [OpenAPI](basics/openapi.md) -->
+<!-- * [Integrations](basics/integrations.md) -->
+
 
