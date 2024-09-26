@@ -1,5 +1,5 @@
 ---
-cover: .gitbook\assets\6.jpg
+cover: https://firebasestorage.googleapis.com/v0/b/filedrive-c7d81.appspot.com/o/file-upload%2F6.jpg?alt=media&token=feb643b0-5d1c-4328-8db7-b09b5daf3df7
 coverY: 0
 layout:
   cover:
